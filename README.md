@@ -1,2 +1,2 @@
-# end-to-end
+# END TO END
 Potato Disease Classification using CNN
