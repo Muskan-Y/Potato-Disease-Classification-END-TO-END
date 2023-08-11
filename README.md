@@ -10,4 +10,8 @@ Potato Disease Classification using CNN Algorithm
 1. Healthy
 2. Early Blight
 3. Late Blight
-   
+
+when the leaf is came out to be healthy then it is shifted to different folder and replaced by new images after sometime as the leaf grows with time.
+
+CONCEPT ->
+Leaves often defade or we can say loose their shiny natural green color due the lack of chlorophylls and most of the leaf diseases are caused by pathogens that harm the normal functioning of photosynthesis.
